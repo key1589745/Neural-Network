@@ -1,4 +1,4 @@
-# Neural-Network
+# VOC Object Detection
 Midterm project submission
 ### Environment
 Pytorch=1.7.1 torchvision=0.8.2
